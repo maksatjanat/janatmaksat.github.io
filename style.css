@@ -1,0 +1,88 @@
+.body{
+  width: 100%;
+  color: #52626d;
+  height: 1000px;
+  
+}
+.blok1{
+  
+  
+  height: 1000px;
+  width: 50%;
+  display: block;
+  margin-right: 0px;
+  float:left;
+  padding-right:20px;
+  
+}  
+.blok2{
+   display: flex;
+   background-image: url('http://artoblaka.ru/media/partners/2016/01/20/natanspotss1.jpg') ;
+  background-size: cover;
+  height:1000px;
+  width: 35%;
+  display: block;
+  float:right;
+}  
+#div1{
+  color: #a4a6c1;
+  font-family: 'Quattrocento Sans', sans-serif;
+  margin-top: 50px;
+}
+#div2{
+  
+  font-size: 48px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  margin-top: 10px;
+}
+#div3{
+  color: #a4a6c1;
+}
+.divLink{
+  font-family: 'Kanit', sans-serif;
+  padding: 30px;
+  text-align: center;
+  margin-top:20px;
+  border: 1px solid gray;
+  border-radius: 4px;
+}
+.div{
+  padding-left: 30px;
+  margin-top: 30px;
+  border-radius: 5px;
+  border: 0px solid blue;
+}
+.links{
+  padding-left: 30px;
+  margin-top: 50px;
+  border-radius: 5px;
+  border: 0px solid blue;
+}
+.footer {
+    position: absolute;
+    bottom: 0px;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #8AC007;
+}
+  
+
+#imgGoogle{
+  height: 32px;
+  width: 32px;
+  background-image: url('http://sergeykorovin.ru/wp-content/themes/sergeykorovin-boutique/img/icon-google.png') ;
+    float: left;
+}
+#imgFacebook{
+  height: 32px;
+  width: 32px;
+  background-image: url('http://files.softicons.com/download/internet-icons/blue-jelly-social-icons-by-webtreatsetc/png/32/webtreatsetc-blue-jelly-facebook-logo.png') ;
+    float: left;
+}
+
+#imgTwitter{
+  height: 32px;
+  width: 32px;
+  background-image: url('https://abs.twimg.com/favicons/favicon.ico') ;
+    float: left;
+}
